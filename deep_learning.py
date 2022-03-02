@@ -2157,10 +2157,10 @@ def get_MNIST(n_valid=0):
 
     import MNIST
 
-    if (os.path.isfile("train-images.idx3-ubyte") and
-        os.path.isfile("train-labels.idx1-ubyte") and
-        os.path.isfile("t10k-images.idx3-ubyte") and
-        os.path.isfile("t10k-labels.idx1-ubyte")):
+    if (os.path.isfile("data/train-images.idx3-ubyte") and
+        os.path.isfile("data/train-labels.idx1-ubyte") and
+        os.path.isfile("data/t10k-images.idx3-ubyte") and
+        os.path.isfile("data/t10k-labels.idx1-ubyte")):
         print("Found original MNIST files. Converting to .npy files...")
         try:
             trainfeatures, trainlabels = MNIST.traindata()

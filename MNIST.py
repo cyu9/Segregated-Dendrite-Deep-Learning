@@ -30,10 +30,10 @@ IMAGEOFFSET = 16
 LABELOFFSET = 8
 NROWS       = 28
 NCOLS       = 28
-TRAINIMAGES = "train-images.idx3-ubyte"
-TRAINLABELS = "train-labels.idx1-ubyte"
-TESTIMAGES  = "t10k-images.idx3-ubyte"
-TESTLABELS  = "t10k-labels.idx1-ubyte"
+TRAINIMAGES = "data/train-images.idx3-ubyte"
+TRAINLABELS = "data/train-labels.idx1-ubyte"
+TESTIMAGES  = "data/t10k-images.idx3-ubyte"
+TESTLABELS  = "data/t10k-labels.idx1-ubyte"
 
 def imageheader(filename):
     with open(filename, 'rb') as io:
