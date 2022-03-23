@@ -1,0 +1,109 @@
+
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/Segregated-Dendrite-Deep-Learning.iml
+.idea/vcs.xml
+__pycache__/deep_learning.cpython-37.pyc
+__pycache__/MNIST.cpython-37.pyc
+Simulations/Example Simulation/deep_learning.py
+Simulations/Example Simulation/epoch_10_b_0.npy
+Simulations/Example Simulation/epoch_10_b_1.npy
+Simulations/Example Simulation/epoch_10_b_2.npy
+Simulations/Example Simulation/epoch_10_W_0.npy
+Simulations/Example Simulation/epoch_10_W_1.npy
+Simulations/Example Simulation/epoch_10_W_2.npy
+Simulations/Example Simulation/epoch_10_Y_0.npy
+Simulations/Example Simulation/epoch_10_Y_1.npy
+Simulations/Example Simulation/epoch_1_b_0.npy
+Simulations/Example Simulation/epoch_1_b_1.npy
+Simulations/Example Simulation/epoch_1_b_2.npy
+Simulations/Example Simulation/epoch_1_W_0.npy
+Simulations/Example Simulation/epoch_1_W_1.npy
+Simulations/Example Simulation/epoch_1_W_2.npy
+Simulations/Example Simulation/epoch_1_Y_0.npy
+Simulations/Example Simulation/epoch_1_Y_1.npy
+Simulations/Example Simulation/epoch_2_b_0.npy
+Simulations/Example Simulation/epoch_2_b_1.npy
+Simulations/Example Simulation/epoch_2_b_2.npy
+Simulations/Example Simulation/epoch_2_W_0.npy
+Simulations/Example Simulation/epoch_2_W_1.npy
+Simulations/Example Simulation/epoch_2_W_2.npy
+Simulations/Example Simulation/epoch_2_Y_0.npy
+Simulations/Example Simulation/epoch_2_Y_1.npy
+Simulations/Example Simulation/epoch_3_b_0.npy
+Simulations/Example Simulation/epoch_3_b_1.npy
+Simulations/Example Simulation/epoch_3_b_2.npy
+Simulations/Example Simulation/epoch_3_W_0.npy
+Simulations/Example Simulation/epoch_3_W_1.npy
+Simulations/Example Simulation/epoch_3_W_2.npy
+Simulations/Example Simulation/epoch_3_Y_0.npy
+Simulations/Example Simulation/epoch_3_Y_1.npy
+Simulations/Example Simulation/epoch_4_b_0.npy
+Simulations/Example Simulation/epoch_4_b_1.npy
+Simulations/Example Simulation/epoch_4_b_2.npy
+Simulations/Example Simulation/epoch_4_W_0.npy
+Simulations/Example Simulation/epoch_4_W_1.npy
+Simulations/Example Simulation/epoch_4_W_2.npy
+Simulations/Example Simulation/epoch_4_Y_0.npy
+Simulations/Example Simulation/epoch_4_Y_1.npy
+Simulations/Example Simulation/epoch_5_b_0.npy
+Simulations/Example Simulation/epoch_5_b_1.npy
+Simulations/Example Simulation/epoch_5_b_2.npy
+Simulations/Example Simulation/epoch_5_W_0.npy
+Simulations/Example Simulation/epoch_5_W_1.npy
+Simulations/Example Simulation/epoch_5_W_2.npy
+Simulations/Example Simulation/epoch_5_Y_0.npy
+Simulations/Example Simulation/epoch_5_Y_1.npy
+Simulations/Example Simulation/epoch_6_b_0.npy
+Simulations/Example Simulation/epoch_6_b_1.npy
+Simulations/Example Simulation/epoch_6_b_2.npy
+Simulations/Example Simulation/epoch_6_W_0.npy
+Simulations/Example Simulation/epoch_6_W_1.npy
+Simulations/Example Simulation/epoch_6_W_2.npy
+Simulations/Example Simulation/epoch_6_Y_0.npy
+Simulations/Example Simulation/epoch_6_Y_1.npy
+Simulations/Example Simulation/epoch_7_b_0.npy
+Simulations/Example Simulation/epoch_7_b_1.npy
+Simulations/Example Simulation/epoch_7_b_2.npy
+Simulations/Example Simulation/epoch_7_W_0.npy
+Simulations/Example Simulation/epoch_7_W_1.npy
+Simulations/Example Simulation/epoch_7_W_2.npy
+Simulations/Example Simulation/epoch_7_Y_0.npy
+Simulations/Example Simulation/epoch_7_Y_1.npy
+Simulations/Example Simulation/epoch_8_b_0.npy
+Simulations/Example Simulation/epoch_8_b_1.npy
+Simulations/Example Simulation/epoch_8_b_2.npy
+Simulations/Example Simulation/epoch_8_W_0.npy
+Simulations/Example Simulation/epoch_8_W_1.npy
+Simulations/Example Simulation/epoch_8_W_2.npy
+Simulations/Example Simulation/epoch_8_Y_0.npy
+Simulations/Example Simulation/epoch_8_Y_1.npy
+Simulations/Example Simulation/epoch_9_b_0.npy
+Simulations/Example Simulation/epoch_9_b_1.npy
+Simulations/Example Simulation/epoch_9_b_2.npy
+Simulations/Example Simulation/epoch_9_W_0.npy
+Simulations/Example Simulation/epoch_9_W_1.npy
+Simulations/Example Simulation/epoch_9_W_2.npy
+Simulations/Example Simulation/epoch_9_Y_0.npy
+Simulations/Example Simulation/epoch_9_Y_1.npy
+Simulations/Example Simulation/final_layer_loss.npy
+Simulations/Example Simulation/full_test_errors.npy
+Simulations/Example Simulation/full_test_errors.txt
+Simulations/Example Simulation/initial_b_0.npy
+Simulations/Example Simulation/initial_b_1.npy
+Simulations/Example Simulation/initial_b_2.npy
+Simulations/Example Simulation/initial_W_0.npy
+Simulations/Example Simulation/initial_W_1.npy
+Simulations/Example Simulation/initial_W_2.npy
+Simulations/Example Simulation/initial_Y_0.npy
+Simulations/Example Simulation/initial_Y_1.npy
+Simulations/Example Simulation/quick_test_errors.npy
+Simulations/Example Simulation/simulation.json
+Simulations/Example Simulation/simulation.txt
+Simulations/Example Simulation/training_errors.npy
+Simulations/Example Simulation/training_labels.npy
+t_test.npy
+t_train.npy
+x_test.npy
+x_train.npy
