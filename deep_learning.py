@@ -50,7 +50,7 @@ n_quick_test = 100   # number of examples to use for quick tests (every 1000 exa
 """                 Simulation parameters                     """
 # ---------------------------------------------------------------
 
-nonspiking_mode         = True  # whether to run in non-spiking mode (real-valued outputs)
+nonspiking_mode         = False  # whether to run in non-spiking mode (real-valued outputs)
 
 use_rand_phase_lengths  = True  # use random phase lengths (chosen from Wald distribution)
 use_rand_plateau_times  = False # randomly sample the time of each neuron's apical plateau potential
